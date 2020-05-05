@@ -6,3 +6,11 @@
 
 БОТ помощник при корона вирусе
 # botda
+
+pip install -r requirements.txt
+
+start 
+
+/expmple/start.py
+
+
